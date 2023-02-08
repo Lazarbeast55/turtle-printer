@@ -1,7 +1,5 @@
 {
-  "result": {
-    "status_overall": {
-      "updated": "g0sn4xhvaric21pztahwkrynw40dvrs7vpti9055",
-      "status": "version-f51be0bac4f14d35 **ALL EXPOITS UPDATED PLEASE WAIT UNTIL THEN**",
-      "status_code": 100
-    },
+        "KEY": {
+            "version": "g0sn4xhvaric21pztahwkrynw40dvrs7vpti9055",
+            "last_update_unix": 1675279381
+        }
