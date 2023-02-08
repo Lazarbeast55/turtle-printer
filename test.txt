@@ -1,5 +1,8 @@
-{
+[
+    {
         "KEY": {
             "version": "g0sn4xhvaric21pztahwkrynw40dvrs7vpti9055",
             "last_update_unix": 1675279381
         }
+    }
+]
