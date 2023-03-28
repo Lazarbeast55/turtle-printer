@@ -1,7 +1,7 @@
 [
     {
         "KEY": {
-            "version": "dz559bnyzfaksfm0q45f3kohbgo7cr5ueuw9rfog",
+            "version": "4brqqvwsr9yz8lajtfpmqlkr61467wj4h4th7de1",
             "last_update_unix": 1675279381
         }
     }
